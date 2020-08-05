@@ -18,4 +18,7 @@ var SinhVienService = function () {
       data: sinhVien,
     });
   };
+  this.themSinhVien = function (sinhVien) {
+    // Them sinh vien o day
+  };
 };
