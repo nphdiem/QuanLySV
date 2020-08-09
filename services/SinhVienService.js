@@ -24,5 +24,10 @@ var SinhVienService = function () {
 
   this.hienThiThongTin= function(sinhvien){
     // Hien Thi thông tin sinh vien
+
+  }
+
+  this.sapXepSinhVien = functin(sinhVien) {
+    console.log('sap xep sinh vien');
   }
 };
