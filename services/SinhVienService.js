@@ -21,4 +21,8 @@ var SinhVienService = function () {
   this.themSinhVien = function (sinhVien) {
     // Them sinh vien o day
   };
+
+  this.hienThiThongTin= function(sinhvien){
+    
+  }
 };
