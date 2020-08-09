@@ -187,6 +187,9 @@ var layDuLieuLocalStorage = function () {
   }
 };
 
+var f_devB= function(){
+  console.log('devB');
+}
 layDuLieuLocalStorage();
 
 console.log(axios);
