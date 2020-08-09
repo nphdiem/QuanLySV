@@ -27,7 +27,7 @@ var SinhVienService = function () {
 
   }
 
-  this.sapXepSinhVien = functin(sinhVien) {
+  this.sapXepSinhVien = function(sinhVien) {
     console.log('sap xep sinh vien');
   }
 };
