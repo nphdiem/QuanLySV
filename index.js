@@ -190,3 +190,4 @@ var layDuLieuLocalStorage = function () {
 layDuLieuLocalStorage();
 
 console.log(axios);
+console.log("TEST BRANCH");
